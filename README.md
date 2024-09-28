@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, I'm Buthmi Kaveesha Wickramasinghe</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka - Find Problems and find solutions with passion with UI UX Designing</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=buthmik" alt="buthmik" /></a> </p>
 
 - 🌱 I’m currently learning **React Sass Flutter Vue.js**
 
