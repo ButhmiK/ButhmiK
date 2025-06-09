@@ -70,7 +70,7 @@
 
 
 
-<div align ="center">
+<div align ="left">
  <h3>Support</h3>
   <img align="center"src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Bwi-K" />
    <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 4px>
