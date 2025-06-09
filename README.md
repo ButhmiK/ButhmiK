@@ -40,8 +40,8 @@
 
 <div align="center">
 
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=buthmik&theme=nord&hide_border=true&show_icons=true&locale=en&layout=compact" alt="buthmik" />
-   <img src="https://github-readme-stats.vercel.app/api?username=buthmik&theme=nord&hide_border=true&show_icons=true&locale=en" alt="buthmik" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buthmik&theme=github_dark&hide_border=true&show_icons=true&locale=en&layout=compact" alt="buthmik" />
+   <img src="https://github-readme-stats.vercel.app/api?username=buthmik&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="buthmik" />
   <br>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buthmik&theme=algolia&background=0d1117&hide_border=true" alt="buthmik" />
