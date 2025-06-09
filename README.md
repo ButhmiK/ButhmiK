@@ -1,10 +1,10 @@
-<h1 align="center">Hol 👋, I'm Buthmi Kaveesha Wickramasinghe</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka - Find Problems and find solutions with passion with UI UX Designing</h3>
+<h1 align="center">Hi 👋, I'm Buthmi Kaveesha Wickramasinghe</h1>
+<h3 align="center">Tech Explorer | Learning, Building & Growing Every Day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buthmik&label=Profile%20views&color=0e75b6&style=flat" alt="buthmik" /> </p>
 
 
-- 🌱 I’m currently learning **React Sass Flutter Vue.js**
+- 🌱 I’m currently learning **Mern Stack**
 
 - 👨‍💻 All of my projects are available at [https://buthmi-k-wick.netlify.app](https://buthmi-k-wick.netlify.app)
 
@@ -12,14 +12,11 @@
 
 - 📫 How to reach me **kaveeshabwic089@gmail.com**
 
-- ⚡ Fun fact **Ho Ho Palying Wordle Tricky tip**
+- ⚡ Fun fact **Wordle**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://codepen.io/https://codepen.io/kaveesha-wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kaveesha-wickramasinghe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/buthmi-wick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/buthmi-wick" height="30" width="40" /></a>
 <a href="https://dribbble.com/https://dribbble.com/buthmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/buthmi" height="30" width="40" /></a>
