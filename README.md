@@ -33,18 +33,25 @@
 
 
 
-
-
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Bwi-K"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Bwi-K" /></a><a href="https://ko-fi.com/Bwi-K"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Bwi-K" /></a></p><br><br>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buthmik&show_icons=true&locale=en&layout=compact" alt="buthmik" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buthmik&show_icons=true&locale=en" alt="buthmik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buthmik&" alt="buthmik" /></p>
 
 
+
+
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=buthmik&theme=algolia&background=0d1117&hide_border=true" alt="buthmik" />
+
+</div>
 
 
 
