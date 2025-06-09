@@ -22,14 +22,16 @@
 - ⚡ Fun fact **Wordle**
 
 
-<h3 align="center">Connect with me </h3>
+
+<h3 align="center">Connect with me</h3>
+
 <p align="center">
-<a href="https://codepen.io/https://codepen.io/kaveesha-wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/kaveesha-wickramasinghe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/buthmi-wick" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/buthmi-wick" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/buthmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/buthmi" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://www.behance.net/buthmikwi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/buthmikwi" height="30" width="40" /></a>
-<a href="https://medium.com/@bkwickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bkwickramasinghe" height="30" width="40" /></a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin,gmail,discord" />
+  </a>
 </p>
+
+
 
 <h3 align="left">Languages and Tools</h3>
 
