@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm Buthmi Kaveesha Wickramasinghe</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">, I'm Buthmi Kaveesha Wickramasinghe</h1>
 <h3 align="center">Tech Explorer | Learning, Building & Growing Every Day</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buthmik&label=Profile%20views&color=0e75b6&style=flat" alt="buthmik" /> </p>
 
-<p align="center">
+<p align="center"><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px>
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;2%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 
-- 🌱 I’m currently learning **Mern Stack**
+- 🌱 I’m currently learning Mern 
 
 - 👨‍💻 All of my projects are available at [https://buthmi-k-wick.netlify.app](https://buthmi-k-wick.netlify.app)
 
@@ -47,6 +47,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=buthmik&theme=algolia&background=0d1117&hide_border=true" alt="buthmik" />
 
 </div>
-
+ <div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+ </div>
 
 
