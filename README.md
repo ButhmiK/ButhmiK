@@ -98,7 +98,7 @@
       <br>
        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
         <br>
-        <img  src="https://i.imgur.com/dBaSKWF.gif" height="20" width="10%">
+        <img  src="https://i.imgur.com/dBaSKWF.gif" height="40" width="15%">
        </div>
 
 
