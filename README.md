@@ -93,7 +93,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=buthmik&theme=github_dark&hide_border=true&show_icons=true&locale=en" alt="buthmik" />
    <br>
    <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=buthmik&theme=algolia&background=0d1117&hide_border=true" alt="buthmik" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=buthmik&theme=algolia&background=0d1117&hide_border=true" alt="" />
      <br>
       <br>
        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
